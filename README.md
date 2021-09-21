@@ -67,6 +67,7 @@
 
 ## links
 
+- https://iaia.github.io/
 - https://github.com/iaia
 - https://iaia.hatenablog.com/
 - https://twitter.com/iaiabot
